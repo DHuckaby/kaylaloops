@@ -1,5 +1,5 @@
 # docs: https://github.com/moulco/moul/tree/master/docs#example-moultoml
-base = "/"
+base = "https://kaylaloops.com"
 ga_measurement_id = ""
 
 [style]
