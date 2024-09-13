@@ -1,0 +1,24 @@
+# docs: https://github.com/moulco/moul/tree/master/docs#example-moultoml
+base = "/"
+ga_measurement_id = ""
+
+[style]
+theme = "system-preference"
+cover = "center"
+content = "left"
+
+[profile]
+name = "Kayla Loops"
+bio = "Handcrafting unique crochet pieces with love and creativity"
+
+[social]
+twitter = ""
+github = ""
+instagram = ""
+facebook = ""
+youtube = ""
+
+[content]
+title = "Featured Creations"
+tags = ["Crochet", "Creative"]
+text = "Explore a curated collection of my handmade crochet artwork, each piece crafted with care and creativity."
