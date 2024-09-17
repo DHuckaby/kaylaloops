@@ -9,7 +9,7 @@ content = "left"
 
 [profile]
 name = "Kayla Loops"
-bio = "Handcrafting unique crochet pieces with love and creativity"
+bio = "makemeloops@gmail.com"
 
 [social]
 twitter = ""
@@ -19,6 +19,8 @@ facebook = ""
 youtube = ""
 
 [content]
-title = "Featured Creations"
+title = "Loops"
 tags = ["Crochet", "Creative"]
-text = "Explore a curated collection of my handmade crochet artwork, each piece crafted with care and creativity."
+text = """
+I am the proud owner of way too much yarn and too much time. Kayla Loops started as me just looping on crochet projects. I am unstoppable. I love creating new projects. If you'd like me to create you your own personal loops/project, send me a message and I might make it happen. I will only be creating new patterns as I don't save my random ones. I do them all by obsessing, randomly make up my own and by googling fun ideas.
+"""
