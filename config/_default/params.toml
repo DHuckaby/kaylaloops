@@ -1,0 +1,26 @@
+# Blowfish configuration
+# See https://blowfish.page/docs/configuration/
+
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+description = "I have way too much yarn, plenty of time, and a serious obsession with crochet. Kayla Loops started with me just looping around, and now I can’t stop! Contact me for unique custom projects at makemeloops@gmail.com"
+disableTextInHeader = true
+
+[header]
+  layout = "basic"
+  showLogo = false
+  showTitle = false
+  showSocial = true 
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = false # Disable theme switcher
+
+[homepage]
+  layout = "profile" 
+  showRecent = false
+
+[article]
+  showViews = false
+  showLikes = false

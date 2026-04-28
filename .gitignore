@@ -1,2 +1,7 @@
 .DS_Store
-.moul/
+public/
+resources/
+.hugo_build.lock
+hugo_stats.json
+
+# We keep docs/ because GitHub Pages serves from it

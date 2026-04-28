@@ -1,0 +1,10 @@
+baseURL = "https://kaylaloops.com/"
+languageCode = "en-us"
+title = "Kayla Loops"
+theme = "blowfish"
+
+[params]
+  enableSearch = false
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

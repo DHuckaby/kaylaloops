@@ -1,0 +1,13 @@
+languageName = "English"
+contentDir = "content"
+
+[params]
+  copyright = "Copyright © Kayla Huckaby. All Rights Reserved."
+
+[author]
+  name = "Kayla Loops"
+  image = "avatar.jpg"
+  bio = "makemeloops@gmail.com"
+
+[[author.links]]
+  email = "mailto:makemeloops@gmail.com"

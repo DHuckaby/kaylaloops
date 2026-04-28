@@ -1,8 +1,8 @@
-moul export
-cp ./docs/CNAME ./dist/
-cp ./docs/.nojekyll ./dist/
-rm -rf ./docs/
-mv ./dist/ ./docs/
+#!/bin/bash
 
-# Automate fixed header
-sed -i '' 's/\(header{[^}]*height:\)[0-9]*vh/\10vh/g' docs/index.html
+# Clean up existing docs
+rm -rf docs/
+
+# Build the site using Hugo
+# The --destination flag ensures it outputs to docs/ for GitHub Pages
+hugo --destination docs
