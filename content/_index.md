@@ -15,6 +15,7 @@ I have way too much yarn, plenty of time, and a serious obsession with crochet. 
   <img src="20251224_123939.png" class="grid-w33" />
   <img src="20251030_211814.png" class="grid-w33" />
   <img src="20251030_200639.jpg" class="grid-w33" />
+  <img src="20241013_171217.jpg" class="grid-w33" />
   <img src="20240831_203816.jpg" class="grid-w33" />
   <img src="20240827_221318.jpg" class="grid-w33" />
   <img src="20240827_221243.jpg" class="grid-w33" />
